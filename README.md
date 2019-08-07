@@ -17,6 +17,5 @@ Inteligência artificial para controlar um carro autônomo virtual.
 \> python -m pip install kivy_examples</br>
 \> python -m pip install Pillow</br>
 \> python -m pip install cython</br>
-\> python -m pip install PyEnchant</br>
 
 - Execute o arquivo map.py
